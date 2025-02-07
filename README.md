@@ -50,7 +50,7 @@ Implemented real-time monitoring of model performance, detecting any model drift
 Optimized the deployment process using containerization, ensuring scalability and efficient resource management.
 The project also utilizes Docker for environment isolation and deployment consistency.
 GitHub Repository
-You can access the complete codebase for the project here: [GitHub Repository Link]
+You can access the complete codebase for the project here: (https://github.com/Darshanjain25933/Datascience-landops-industry-)
 
 Conclusion
 This README provides all the necessary information to set up, run, and explore the Data Science and MLOps in Industry project. The integration of MLOps practices ensures a streamlined, scalable, and efficient model development lifecycle suitable for industry-level applications. Feel free to explore the repository, contribute, or contact me if you have any questions or suggestions.
